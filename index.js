@@ -1,7 +1,6 @@
 //load required modules
 const fs = require('fs');
 const Discord = require('discord.js');
-const tools = require('./tools');
 const { send } = require('process');
 
 //create a client, the bot itself

@@ -9,4 +9,4 @@ const client = new Discord.Client();
 
 //log in to Discord with the bot token in config.json
 //go to https://discordapp.com/developers/applications to get your own bot
-client.login('NzM5OTM0NDEyMzA4NzQyMzA0.Xyhrnw.HYHwefGhVQDfc6Woq4ULEkWPQzI');
+client.login('');
